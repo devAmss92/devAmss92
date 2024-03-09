@@ -1,5 +1,5 @@
 ## About Me
-Hi there! I'm António Silva, a FullStack developer passionate about crafting cool stuff with code functioning smoothly but also looking great.
+Hello! I'm António Silva, a FullStack developer who is passionate about creating polished and seamless code that not only functions flawlessly but also boasts an exceptional visual appeal.
 
 ## Website
 -
